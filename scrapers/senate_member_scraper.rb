@@ -44,10 +44,14 @@ def scrape_all_information(doc)
 		
 		member_contact_array = scrape_contact_information(member, member_contact_site)
 		member_email = scrape_member_email(member_contact_site)
-		
+
+		full_name_array = member.css('.views-field-field-last-name-value > .field-content a').children.first.text.split(",").map(&:strip)
+
 		sm_info_hsh = Hash.new
 		sm_info_hsh[:photo] = member.css('.views-field-field-profile-picture-fid > .field-content img').attr('src').text
-		sm_info_hsh[:name] = member.css('.views-field-field-last-name-value > .field-content a').text
+		sm_info_hsh[:first_name] = full_name_array[1]
+		sm_info_hsh[:last_name] = full_name_array[0]
+		sm_info_hsh[:full_name] = "#{full_name_array[1]} #{full_name_array[0]} #{full_name_array[2]}"
 		sm_info_hsh[:email] = member_email
 		sm_info_hsh[:contact_link] = 'http://www.nysenate.gov' + member.css('.views-field-field-last-name-value > .field-content > .contact > a').attr('href').text
 		sm_info_hsh[:district] = member.css('.views-field-field-senators-district-nid > .field-content').children.map(&:text)[0]
@@ -76,6 +80,6 @@ end
 sm_doc = Nokogiri::HTML(open("http://www.nysenate.gov/senators")).css('.view-content > .views-row')
 sm_json = scrape_all_information(sm_doc)
 
-# File.open("../public/nys-senate-members-2015.json","w") do |f|
-#   f.write(sm_json.to_json)
-# end
+File.open("../public/nys-senate-members-2015.json","w") do |f|
+  f.write(sm_json.to_json)
+end

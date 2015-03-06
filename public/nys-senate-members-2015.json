@@ -1,6 +1,8 @@
 [{
     "photo": "http://www.nysenate.gov/files/imagecache/senator_teaser/profile-pictures/SEN._ADDABBO_HEADSHOT_02-11-13_Addabbo-HS-051.jpg",
-    "name": "Addabbo, Joseph P., JrContact",
+    "first_name": "Joseph P.",
+    "last_name": "Addabbo",
+    "full_name": "Joseph P. Addabbo Jr",
     "email": "addabbo@senate.state.ny.us",
     "contact_link": "http://www.nysenate.gov/senator/joseph-p-addabbo-jr/contact",
     "district": "District 15",
@@ -47,7 +49,9 @@
     "social_twitter": ""
 }, {
     "photo": "http://www.nysenate.gov/files/imagecache/senator_teaser/profile-pictures/GeorgeAmedore_official.jpg",
-    "name": "Amedore, GeorgeContact",
+    "first_name": "George",
+    "last_name": "Amedore",
+    "full_name": "George Amedore ",
     "email": "Amedore@nysenate.gov",
     "contact_link": "http://www.nysenate.gov/senator/george-amedore/contact",
     "district": "District 46",
@@ -85,7 +89,9 @@
     "social_twitter": "https://twitter.com/GeorgeAmedore"
 }, {
     "photo": "http://www.nysenate.gov/files/imagecache/senator_teaser/profile-pictures/Avella%20Website%20Photo.jpg",
-    "name": "Avella, TonyContact",
+    "first_name": "Tony",
+    "last_name": "Avella",
+    "full_name": "Tony Avella ",
     "email": "avella@nysenate.gov",
     "contact_link": "http://www.nysenate.gov/senator/tony-avella/contact",
     "district": "District 11",
@@ -114,7 +120,9 @@
     "social_twitter": "https://twitter.com/TonyAvella"
 }, {
     "photo": "http://www.nysenate.gov/files/imagecache/senator_teaser/profile-pictures/%2803-06-06%29%2009%20%20HS%20Bonacic-HS-007-ret-5x7.JPG",
-    "name": "Bonacic, John J.Contact",
+    "first_name": "John J.",
+    "last_name": "Bonacic",
+    "full_name": "John J. Bonacic ",
     "email": "bonacic@nysenate.gov",
     "contact_link": "http://www.nysenate.gov/senator/john-j-bonacic/contact",
     "district": "District 42",
@@ -149,7 +157,9 @@
     "social_twitter": "http://twitter.com/JohnBonacic"
 }, {
     "photo": "http://www.nysenate.gov/files/imagecache/senator_teaser/profile-pictures/AAA_0628.jpeg",
-    "name": "Boyle, Philip M.Contact",
+    "first_name": "Philip M.",
+    "last_name": "Boyle",
+    "full_name": "Philip M. Boyle ",
     "email": "pboyle@nysenate.gov",
     "contact_link": "http://www.nysenate.gov/senator/philip-boyle/contact",
     "district": "District 4",
@@ -176,7 +186,9 @@
     "social_twitter": "http://twitter.com/PhilBoyleNY"
 }, {
     "photo": "http://www.nysenate.gov/files/imagecache/senator_teaser/profile-pictures/Breslin202009.jpg",
-    "name": "Breslin, Neil D.Contact",
+    "first_name": "Neil D.",
+    "last_name": "Breslin",
+    "full_name": "Neil D. Breslin ",
     "email": "breslin@nysenate.gov",
     "contact_link": "http://www.nysenate.gov/senator/neil-d-breslin/contact",
     "district": "District 44",
@@ -203,7 +215,9 @@
     "social_twitter": ""
 }, {
     "photo": "http://www.nysenate.gov/files/imagecache/senator_teaser/profile-pictures/%2812-07-10%29%20Carlucci-HS-028.jpg",
-    "name": "Carlucci, DavidContact",
+    "first_name": "David",
+    "last_name": "Carlucci",
+    "full_name": "David Carlucci ",
     "email": "carlucci@nysenate.gov",
     "contact_link": "http://www.nysenate.gov/senator/david-carlucci/contact",
     "district": "District 38",
@@ -249,7 +263,9 @@
     "social_twitter": "http://twitter.com/davidcarlucci"
 }, {
     "photo": "http://www.nysenate.gov/files/imagecache/senator_teaser/profile-pictures/%2801-12-15%29%20Comrie-HS-079.jpg",
-    "name": "Comrie, LeroyContact",
+    "first_name": "Leroy",
+    "last_name": "Comrie",
+    "full_name": "Leroy Comrie ",
     "email": "Comrie@nysenate.gov",
     "contact_link": "http://www.nysenate.gov/senator/leroy-comrie/contact",
     "district": "District 14",
@@ -277,7 +293,9 @@
     "social_twitter": ""
 }, {
     "photo": "http://www.nysenate.gov/files/imagecache/senator_teaser/profile-pictures/croc-2.jpg",
-    "name": "Croci, ThomasContact",
+    "first_name": "Thomas",
+    "last_name": "Croci",
+    "full_name": "Thomas Croci ",
     "email": "Croci@nysenate.gov",
     "contact_link": "http://www.nysenate.gov/senator/thomas-croci/contact",
     "district": "District 3",
@@ -304,7 +322,9 @@
     "social_twitter": ""
 }, {
     "photo": "http://www.nysenate.gov/files/imagecache/senator_teaser/profile-pictures/2014%20Headshot.png",
-    "name": "DeFrancisco, John A.Contact",
+    "first_name": "John A.",
+    "last_name": "DeFrancisco",
+    "full_name": "John A. DeFrancisco ",
     "email": "jdefranc@nysenate.gov",
     "contact_link": "http://www.nysenate.gov/senator/john-defrancisco/contact",
     "district": "District 50",
@@ -331,7 +351,9 @@
     "social_twitter": "http://twitter.com/JohnDeFrancisco"
 }, {
     "photo": "http://www.nysenate.gov/files/imagecache/senator_teaser/profile-pictures/Senator-Ruben-Diaz.jpg",
-    "name": "Diaz, RubenContact",
+    "first_name": "Ruben",
+    "last_name": "Diaz",
+    "full_name": "Ruben Diaz ",
     "email": "diaz@nysenate.gov",
     "contact_link": "http://www.nysenate.gov/senator/ruben-diaz/contact",
     "district": "District 32",
@@ -360,7 +382,9 @@
     "social_twitter": ""
 }, {
     "photo": "http://www.nysenate.gov/files/imagecache/senator_teaser/profile-pictures/%2805-16-12%29%20Dilan-HS-005.jpg",
-    "name": "Dilan, Martin MalavéContact",
+    "first_name": "Martin Malavé",
+    "last_name": "Dilan",
+    "full_name": "Martin Malavé Dilan ",
     "email": "dilan@nysenate.gov",
     "contact_link": "http://www.nysenate.gov/senator/martin-malave-dilan/contact",
     "district": "District 18",
@@ -389,7 +413,9 @@
     "social_twitter": "http://twitter.com/SenatorDilan"
 }, {
     "photo": "http://www.nysenate.gov/files/imagecache/senator_teaser/profile-pictures/Adriano%20Espaillat%20Headshot.JPG",
-    "name": "Espaillat, AdrianoContact",
+    "first_name": "Adriano",
+    "last_name": "Espaillat",
+    "full_name": "Adriano Espaillat ",
     "email": "espailla@nysenate.gov",
     "contact_link": "http://www.nysenate.gov/senator/adriano-espaillat/contact",
     "district": "District 31",
@@ -418,7 +444,9 @@
     "social_twitter": ""
 }, {
     "photo": "http://www.nysenate.gov/files/imagecache/senator_teaser/profile-pictures/SD44_Farley.jpg",
-    "name": "Farley, Hugh T.Contact",
+    "first_name": "Hugh T.",
+    "last_name": "Farley",
+    "full_name": "Hugh T. Farley ",
     "email": "Farley@nysenate.gov",
     "contact_link": "http://www.nysenate.gov/senator/hugh-t-farley/contact",
     "district": "District 49",
@@ -456,7 +484,9 @@
     "social_twitter": ""
 }, {
     "photo": "http://www.nysenate.gov/files/imagecache/senator_teaser/profile-pictures/Felder-HS-012_web.jpg",
-    "name": "Felder, SimchaContact",
+    "first_name": "Simcha",
+    "last_name": "Felder",
+    "full_name": "Simcha Felder ",
     "email": "felder@nysenate.gov",
     "contact_link": "http://www.nysenate.gov/senator/simcha-felder/contact",
     "district": "District 17",
@@ -485,7 +515,9 @@
     "social_twitter": ""
 }, {
     "photo": "http://www.nysenate.gov/files/imagecache/senator_teaser/profile-pictures/Senator%20John%20Flanagan.jpg",
-    "name": "Flanagan, John J.Contact",
+    "first_name": "John J.",
+    "last_name": "Flanagan",
+    "full_name": "John J. Flanagan ",
     "email": "flanagan@nysenate.gov",
     "contact_link": "http://www.nysenate.gov/senator/john-j-flanagan/contact",
     "district": "District 2",
@@ -514,7 +546,9 @@
     "social_twitter": ""
 }, {
     "photo": "http://www.nysenate.gov/files/imagecache/senator_teaser/profile-pictures/Funke-015.png",
-    "name": "Funke, RichContact",
+    "first_name": "Rich",
+    "last_name": "Funke",
+    "full_name": "Rich Funke ",
     "email": "Funke@nysenate.gov",
     "contact_link": "http://www.nysenate.gov/senator/rich-funke/contact",
     "district": "District 55",
@@ -543,7 +577,9 @@
     "social_twitter": ""
 }, {
     "photo": "http://www.nysenate.gov/files/imagecache/senator_teaser/profile-pictures/%2801-10-11%29%20Gallivan-HS-007.jpg",
-    "name": "Gallivan, Patrick M.Contact",
+    "first_name": "Patrick M.",
+    "last_name": "Gallivan",
+    "full_name": "Patrick M. Gallivan ",
     "email": "gallivan@nysenate.gov",
     "contact_link": "http://www.nysenate.gov/senator/pat-gallivan/contact",
     "district": "District 59",
@@ -589,7 +625,9 @@
     "social_twitter": "http://twitter.com/senatorgallivan"
 }, {
     "photo": "http://www.nysenate.gov/files/imagecache/senator_teaser/profile-pictures/Giannaris.jpg",
-    "name": "Gianaris, MichaelContact",
+    "first_name": "Michael",
+    "last_name": "Gianaris",
+    "full_name": "Michael Gianaris ",
     "email": "gianaris@nysenate.gov",
     "contact_link": "http://www.nysenate.gov/senator/michael-gianaris/contact",
     "district": "District 12",
@@ -618,7 +656,9 @@
     "social_twitter": ""
 }, {
     "photo": "http://www.nysenate.gov/files/imagecache/senator_teaser/profile-pictures/SD22_Golden.jpg",
-    "name": "Golden, Martin J.Contact",
+    "first_name": "Martin J.",
+    "last_name": "Golden",
+    "full_name": "Martin J. Golden ",
     "email": "golden@nysenate.gov",
     "contact_link": "http://www.nysenate.gov/senator/martin-j-golden/contact",
     "district": "District 22",
@@ -654,7 +694,9 @@
     "social_twitter": "https://twitter.com/SenMartyGolden"
 }, {
     "photo": "http://www.nysenate.gov/files/imagecache/senator_teaser/profile-pictures/SD47_Griffo.jpg",
-    "name": "Griffo, Joseph A.Contact",
+    "first_name": "Joseph A.",
+    "last_name": "Griffo",
+    "full_name": "Joseph A. Griffo ",
     "email": "griffo@nysenate.gov",
     "contact_link": "http://www.nysenate.gov/senator/joseph-griffo/contact",
     "district": "District 47",
@@ -683,7 +725,9 @@
     "social_twitter": "http://www.twitter.com/SenGriffo"
 }, {
     "photo": "http://www.nysenate.gov/files/imagecache/senator_teaser/profile-pictures/%2801-07-15%29%20Hamilton-HS-0025rt.jpg",
-    "name": "Hamilton, JesseContact",
+    "first_name": "Jesse",
+    "last_name": "Hamilton",
+    "full_name": "Jesse Hamilton ",
     "email": "Hamilton@nysenate.gov",
     "contact_link": "http://www.nysenate.gov/senator/jesse-hamilton/contact",
     "district": "District 20",
@@ -712,7 +756,9 @@
     "social_twitter": ""
 }, {
     "photo": "http://www.nysenate.gov/files/imagecache/senator_teaser/profile-pictures/Kemp%20head%20shot%202.JPG",
-    "name": "Hannon, KempContact",
+    "first_name": "Kemp",
+    "last_name": "Hannon",
+    "full_name": "Kemp Hannon ",
     "email": "hannon@nysenate.gov",
     "contact_link": "http://www.nysenate.gov/senator/kemp-hannon/contact",
     "district": "District 6",
@@ -739,7 +785,9 @@
     "social_twitter": "http://twitter.com/kemphannon"
 }, {
     "photo": "http://www.nysenate.gov/files/imagecache/senator_teaser/profile-pictures/WebBio%20Hassell-ThompsonHS.jpg",
-    "name": "Hassell-Thompson, RuthContact",
+    "first_name": "Ruth",
+    "last_name": "Hassell-Thompson",
+    "full_name": "Ruth Hassell-Thompson ",
     "email": "hassellt@senate.state.ny.us",
     "contact_link": "http://www.nysenate.gov/senator/ruth-hassell-thompson/contact",
     "district": "District 36",
@@ -776,7 +824,9 @@
     "social_twitter": ""
 }, {
     "photo": "http://www.nysenate.gov/files/imagecache/senator_teaser/profile-pictures/%2802-02-15%29%2027-01%200012%20Final%20Headshot.jpg",
-    "name": "Hoylman, BradContact",
+    "first_name": "Brad",
+    "last_name": "Hoylman",
+    "full_name": "Brad Hoylman ",
     "email": "hoylman@nysenate.gov",
     "contact_link": "http://www.nysenate.gov/senator/brad-hoylman/contact",
     "district": "District 27",
@@ -805,7 +855,9 @@
     "social_twitter": ""
 }, {
     "photo": "http://www.nysenate.gov/files/imagecache/senator_teaser/profile-pictures/%2805-08-13%29%20Kennedy%20-HS-021.jpg",
-    "name": "Kennedy, TimothyContact",
+    "first_name": "Timothy",
+    "last_name": "Kennedy",
+    "full_name": "Timothy Kennedy ",
     "email": "kennedy@nysenate.gov",
     "contact_link": "http://www.nysenate.gov/senator/timothy-kennedy/contact",
     "district": "District 63",
@@ -834,7 +886,9 @@
     "social_twitter": "http://twitter.com/senkennedy"
 }, {
     "photo": "http://www.nysenate.gov/files/imagecache/senator_teaser/profile-pictures/%2802-04-13%29%20Klein-HS-001.jpg",
-    "name": "Klein, Jeffrey D.Contact",
+    "first_name": "Jeffrey D.",
+    "last_name": "Klein",
+    "full_name": "Jeffrey D. Klein ",
     "email": "jdklein@senate.state.ny.us",
     "contact_link": "http://www.nysenate.gov/senator/jeffrey-d-klein/contact",
     "district": "District 34",
@@ -862,7 +916,9 @@
     "social_twitter": "http://twitter.com/JeffKleinNY"
 }, {
     "photo": "http://www.nysenate.gov/files/imagecache/senator_teaser/profile-pictures/Senate%20Headshot.jpg",
-    "name": "Krueger, LizContact",
+    "first_name": "Liz",
+    "last_name": "Krueger",
+    "full_name": "Liz Krueger ",
     "email": "lkrueger@senate.state.ny.us",
     "contact_link": "http://www.nysenate.gov/senator/liz-krueger/contact",
     "district": "District 28",
@@ -891,7 +947,9 @@
     "social_twitter": ""
 }, {
     "photo": "http://www.nysenate.gov/files/imagecache/senator_teaser/profile-pictures/headshotweb.jpg",
-    "name": "Lanza, Andrew JContact",
+    "first_name": "Andrew J",
+    "last_name": "Lanza",
+    "full_name": "Andrew J Lanza ",
     "email": "lanza@senate.state.ny.us",
     "contact_link": "http://www.nysenate.gov/senator/andrew-j-lanza/contact",
     "district": "District 24",
@@ -920,7 +978,9 @@
     "social_twitter": "https://twitter.com/SenatorLanza"
 }, {
     "photo": "http://www.nysenate.gov/files/imagecache/senator_teaser/profile-pictures/Larkin-HS.jpg",
-    "name": "Larkin, William J., Jr.Contact",
+    "first_name": "William J.",
+    "last_name": "Larkin",
+    "full_name": "William J. Larkin Jr.",
     "email": "larkin@senate.state.ny.us",
     "contact_link": "http://www.nysenate.gov/senator/william-j-larkin-jr/contact",
     "district": "District 39",
@@ -947,7 +1007,9 @@
     "social_twitter": "https://twitter.com/SenatorLarkin"
 }, {
     "photo": "http://www.nysenate.gov/files/imagecache/senator_teaser/profile-pictures/GL_2_0.jpg",
-    "name": "Latimer, George S.Contact",
+    "first_name": "George S.",
+    "last_name": "Latimer",
+    "full_name": "George S. Latimer ",
     "email": "latimer@nysenate.gov",
     "contact_link": "http://www.nysenate.gov/senator/george-s-latimer/contact",
     "district": "District 37",
@@ -976,7 +1038,9 @@
     "social_twitter": "https://twitter.com/GeorgeLatimer37"
 }, {
     "photo": "http://www.nysenate.gov/files/imagecache/senator_teaser/profile-pictures/NewHeadShotLavalle2.jpg",
-    "name": "LaValle, Kenneth P.Contact",
+    "first_name": "Kenneth P.",
+    "last_name": "LaValle",
+    "full_name": "Kenneth P. LaValle ",
     "email": "lavalle@nysenate.gov",
     "contact_link": "http://www.nysenate.gov/senator/kenneth-p-lavalle/contact",
     "district": "District 1",
@@ -1004,7 +1068,9 @@
     "social_twitter": "http://twitter.com/senatorlavalle"
 }, {
     "photo": "http://www.nysenate.gov/files/imagecache/senator_teaser/profile-pictures/headshot%5B1%5D%5B1%5D.JPG",
-    "name": "Libous, TomContact",
+    "first_name": "Tom",
+    "last_name": "Libous",
+    "full_name": "Tom Libous ",
     "email": "senator@senatorlibous.com",
     "contact_link": "http://www.nysenate.gov/senator/tom-libous/contact",
     "district": "District 52",
@@ -1031,7 +1097,9 @@
     "social_twitter": ""
 }, {
     "photo": "http://www.nysenate.gov/files/imagecache/senator_teaser/profile-pictures/24x7%40300dpi.jpg",
-    "name": "Little, ElizabethContact",
+    "first_name": "Elizabeth",
+    "last_name": "Little",
+    "full_name": "Elizabeth Little ",
     "email": "little@nysenate.gov",
     "contact_link": "http://www.nysenate.gov/senator/elizabeth-little/contact",
     "district": "District 45",
@@ -1066,7 +1134,9 @@
     "social_twitter": ""
 }, {
     "photo": "http://www.nysenate.gov/files/imagecache/senator_teaser/profile-pictures/headshotWEB.jpg",
-    "name": "Marcellino, Carl LContact",
+    "first_name": "Carl L",
+    "last_name": "Marcellino",
+    "full_name": "Carl L Marcellino ",
     "email": "marcelli@senate.state.ny.us",
     "contact_link": "http://www.nysenate.gov/senator/carl-l-marcellino/contact",
     "district": "District 5",
@@ -1095,7 +1165,9 @@
     "social_twitter": ""
 }, {
     "photo": "http://www.nysenate.gov/files/imagecache/senator_teaser/profile-pictures/Senator_Kathy_Marchione.jpg",
-    "name": "Marchione, Kathleen A.Contact",
+    "first_name": "Kathleen A.",
+    "last_name": "Marchione",
+    "full_name": "Kathleen A. Marchione ",
     "email": "marchione@nysenate.gov",
     "contact_link": "http://www.nysenate.gov/senator/kathleen-a-marchione/contact",
     "district": "District 43",
@@ -1133,7 +1205,9 @@
     "social_twitter": ""
 }, {
     "photo": "http://www.nysenate.gov/files/imagecache/senator_teaser/profile-pictures/6-29%20Headshot.jpg",
-    "name": "Martins, Jack M.Contact",
+    "first_name": "Jack M.",
+    "last_name": "Martins",
+    "full_name": "Jack M. Martins ",
     "email": "martins@nysenate.gov",
     "contact_link": "http://www.nysenate.gov/senator/jack-m-martins/contact",
     "district": "District 7",
@@ -1162,7 +1236,9 @@
     "social_twitter": "http://twitter.com/senatormartins"
 }, {
     "photo": "http://www.nysenate.gov/files/imagecache/senator_teaser/profile-pictures/headshot.png",
-    "name": "Montgomery, VelmanetteContact",
+    "first_name": "Velmanette",
+    "last_name": "Montgomery",
+    "full_name": "Velmanette Montgomery ",
     "email": "montgome@nysenate.gov",
     "contact_link": "http://www.nysenate.gov/senator/velmanette-montgomery/contact",
     "district": "District 25",
@@ -1191,7 +1267,9 @@
     "social_twitter": ""
 }, {
     "photo": "http://www.nysenate.gov/files/imagecache/senator_teaser/profile-pictures/Murphy-HS.jpg",
-    "name": "Murphy, Terrence P.Contact",
+    "first_name": "Terrence P.",
+    "last_name": "Murphy",
+    "full_name": "Terrence P. Murphy ",
     "email": "murphy@nysenate.gov",
     "contact_link": "http://www.nysenate.gov/senator/terrence-p-murphy/contact",
     "district": "District 40",
@@ -1219,7 +1297,9 @@
     "social_twitter": ""
 }, {
     "photo": "http://www.nysenate.gov/files/imagecache/senator_teaser/profile-pictures/2.jpg",
-    "name": "Nozzolio, Michael F.Contact",
+    "first_name": "Michael F.",
+    "last_name": "Nozzolio",
+    "full_name": "Michael F. Nozzolio ",
     "email": "nozzolio@nysenate.gov",
     "contact_link": "http://www.nysenate.gov/senator/michael-f-nozzolio/contact",
     "district": "District 54",
@@ -1248,7 +1328,9 @@
     "social_twitter": "/www.twitter.com/%40senatornozzolio"
 }, {
     "photo": "http://www.nysenate.gov/files/imagecache/senator_teaser/profile-pictures/%2802-10-15%29%20Official%20HS%20O%27Mara-HS-040.jpg",
-    "name": "O'Mara, Thomas F.Contact",
+    "first_name": "Thomas F.",
+    "last_name": "O'Mara",
+    "full_name": "Thomas F. O'Mara ",
     "email": "omara@nysenate.gov",
     "contact_link": "http://www.nysenate.gov/senator/thomas-f-omara/contact",
     "district": "District 58",
@@ -1286,7 +1368,9 @@
     "social_twitter": ""
 }, {
     "photo": "http://www.nysenate.gov/files/imagecache/senator_teaser/profile-pictures/%2811-13-14%29%20Ortt-HS-007.jpg",
-    "name": "Ortt, RobertContact",
+    "first_name": "Robert",
+    "last_name": "Ortt",
+    "full_name": "Robert Ortt ",
     "email": "Ortt@nysenate.gov",
     "contact_link": "http://www.nysenate.gov/senator/robert-ortt/contact",
     "district": "District 62",
@@ -1315,7 +1399,9 @@
     "social_twitter": "https://twitter.com/SenatorOrtt"
 }, {
     "photo": "http://www.nysenate.gov/files/imagecache/senator_teaser/profile-pictures/Marc-Panepinto.jpg",
-    "name": "Panepinto, MarcContact",
+    "first_name": "Marc",
+    "last_name": "Panepinto",
+    "full_name": "Marc Panepinto ",
     "email": "Panepinto@nysenate.gov",
     "contact_link": "http://www.nysenate.gov/senator/marc-panepinto/contact",
     "district": "District 60",
@@ -1344,7 +1430,9 @@
     "social_twitter": "https://twitter.com/SenPanepinto"
 }, {
     "photo": "http://www.nysenate.gov/files/imagecache/senator_teaser/profile-pictures/Parker2007Biography.jpg",
-    "name": "Parker, Kevin S.Contact",
+    "first_name": "Kevin S.",
+    "last_name": "Parker",
+    "full_name": "Kevin S. Parker ",
     "email": "parker@senate.state.ny.us",
     "contact_link": "http://www.nysenate.gov/senator/kevin-s-parker/contact",
     "district": "District 21",
@@ -1373,7 +1461,9 @@
     "social_twitter": ""
 }, {
     "photo": "http://www.nysenate.gov/files/imagecache/senator_teaser/profile-pictures/Jose%20Peralta%20MAIN-Senate%20headshot.JPG",
-    "name": "Peralta, JoseContact",
+    "first_name": "Jose",
+    "last_name": "Peralta",
+    "full_name": "Jose Peralta ",
     "email": "jperalta@nysenate.gov",
     "contact_link": "http://www.nysenate.gov/senator/jose-peralta/contact",
     "district": "District 13",
@@ -1402,7 +1492,9 @@
     "social_twitter": "http://twitter.com/SenatorPeralta"
 }, {
     "photo": "http://www.nysenate.gov/files/imagecache/senator_teaser/profile-pictures/%2802-05-09%29%20Perkins-HS-004_0.jpg",
-    "name": "Perkins, BillContact",
+    "first_name": "Bill",
+    "last_name": "Perkins",
+    "full_name": "Bill Perkins ",
     "email": "perkins@senate.state.ny.us",
     "contact_link": "http://www.nysenate.gov/senator/bill-perkins/contact",
     "district": "District 30",
@@ -1431,7 +1523,9 @@
     "social_twitter": ""
 }, {
     "photo": "http://www.nysenate.gov/files/imagecache/senator_teaser/profile-pictures/hs.jpg",
-    "name": "Ranzenhofer, Michael H.Contact",
+    "first_name": "Michael H.",
+    "last_name": "Ranzenhofer",
+    "full_name": "Michael H. Ranzenhofer ",
     "email": "ranz@senate.state.ny.us",
     "contact_link": "http://www.nysenate.gov/senator/michael-h-ranzenhofer/contact",
     "district": "District 61",
@@ -1460,7 +1554,9 @@
     "social_twitter": ""
 }, {
     "photo": "http://www.nysenate.gov/files/imagecache/senator_teaser/profile-pictures/ritchie_web.jpg",
-    "name": "Ritchie, PattyContact",
+    "first_name": "Patty",
+    "last_name": "Ritchie",
+    "full_name": "Patty Ritchie ",
     "email": "ritchie@nysenate.gov",
     "contact_link": "http://www.nysenate.gov/senator/patty-ritchie/contact",
     "district": "District 48",
@@ -1505,7 +1601,9 @@
     "social_twitter": "https://twitter.com/SenatorRitchie"
 }, {
     "photo": "http://www.nysenate.gov/files/imagecache/senator_teaser/profile-pictures/%2801-29-14%29%20Rivera-HS-%20009.jpg",
-    "name": "Rivera, GustavoContact",
+    "first_name": "Gustavo",
+    "last_name": "Rivera",
+    "full_name": "Gustavo Rivera ",
     "email": "grivera@nysenate.gov",
     "contact_link": "http://www.nysenate.gov/senator/gustavo-rivera/contact",
     "district": "District 33",
@@ -1534,7 +1632,9 @@
     "social_twitter": "https://twitter.com/NYSenatorRivera"
 }, {
     "photo": "http://www.nysenate.gov/files/imagecache/senator_teaser/profile-pictures/SD56_RobachHS.jpg",
-    "name": "Robach, Joseph E.Contact",
+    "first_name": "Joseph E.",
+    "last_name": "Robach",
+    "full_name": "Joseph E. Robach ",
     "email": "robach@nysenate.gov",
     "contact_link": "http://www.nysenate.gov/senator/joseph-e-robach/contact",
     "district": "District 56",
@@ -1561,7 +1661,9 @@
     "social_twitter": "https://twitter.com/SenatorRobach"
 }, {
     "photo": "http://www.nysenate.gov/files/imagecache/senator_teaser/profile-pictures/webphoto1.jpg",
-    "name": "Sampson, John L.Contact",
+    "first_name": "John L.",
+    "last_name": "Sampson",
+    "full_name": "John L. Sampson ",
     "email": "sampson@senate.state.ny.us",
     "contact_link": "http://www.nysenate.gov/senator/john-l-sampson/contact",
     "district": "District 19",
@@ -1590,7 +1692,9 @@
     "social_twitter": ""
 }, {
     "photo": "http://www.nysenate.gov/files/imagecache/senator_teaser/profile-pictures/%2812-10-12%29%20Sanders-HS-010.jpg",
-    "name": "Sanders, JamesContact",
+    "first_name": "James",
+    "last_name": "Sanders",
+    "full_name": "James Sanders ",
     "email": "sanders@nysenate.gov",
     "contact_link": "http://www.nysenate.gov/senator/james-sanders-jr/contact",
     "district": "District 10",
@@ -1627,7 +1731,9 @@
     "social_twitter": ""
 }, {
     "photo": "http://www.nysenate.gov/files/imagecache/senator_teaser/profile-pictures/%2803-03-09%29%20Savino-HS-019.jpg",
-    "name": "Savino, Diane J.Contact",
+    "first_name": "Diane J.",
+    "last_name": "Savino",
+    "full_name": "Diane J. Savino ",
     "email": "savino@senate.state.ny.us",
     "contact_link": "http://www.nysenate.gov/senator/diane-j-savino/contact",
     "district": "District 23",
@@ -1665,7 +1771,9 @@
     "social_twitter": ""
 }, {
     "photo": "http://www.nysenate.gov/files/imagecache/senator_teaser/profile-pictures/serino.jpg",
-    "name": "Serino, SusanContact",
+    "first_name": "Susan",
+    "last_name": "Serino",
+    "full_name": "Susan Serino ",
     "email": "Serino@nysenate.gov",
     "contact_link": "http://www.nysenate.gov/senator/susan-serino/contact",
     "district": "District 41",
@@ -1701,7 +1809,9 @@
     "social_twitter": ""
 }, {
     "photo": "http://www.nysenate.gov/files/imagecache/senator_teaser/profile-pictures/Serrano.Headshot.jpg",
-    "name": "Serrano, Jose M.Contact",
+    "first_name": "Jose M.",
+    "last_name": "Serrano",
+    "full_name": "Jose M. Serrano ",
     "email": "serrano@senate.state.ny.us",
     "contact_link": "http://www.nysenate.gov/senator/jose-m-serrano/contact",
     "district": "District 29",
@@ -1730,7 +1840,9 @@
     "social_twitter": "http://twitter.com/senatorserrano"
 }, {
     "photo": "http://www.nysenate.gov/files/imagecache/senator_teaser/profile-pictures/2009%20Sen%20Seward%20Head%20Shot.jpg",
-    "name": "Seward, James L.Contact",
+    "first_name": "James L.",
+    "last_name": "Seward",
+    "full_name": "James L. Seward ",
     "email": "seward@nysenate.gov",
     "contact_link": "http://www.nysenate.gov/senator/james-l-seward/contact",
     "district": "District 51",
@@ -1773,7 +1885,9 @@
     "social_twitter": ""
 }, {
     "photo": "http://www.nysenate.gov/files/imagecache/senator_teaser/profile-pictures/SD9_Skelos_4.jpg",
-    "name": "Skelos, Dean G.Contact",
+    "first_name": "Dean G.",
+    "last_name": "Skelos",
+    "full_name": "Dean G. Skelos ",
     "email": "skelos@nysenate.gov",
     "contact_link": "http://www.nysenate.gov/senator/dean-g-skelos/contact",
     "district": "District 9",
@@ -1800,7 +1914,9 @@
     "social_twitter": ""
 }, {
     "photo": "http://www.nysenate.gov/files/imagecache/senator_teaser/profile-pictures/%2803-05-09%29%20Squadron%20HS-040.jpg",
-    "name": "Squadron, Daniel LContact",
+    "first_name": "Daniel L",
+    "last_name": "Squadron",
+    "full_name": "Daniel L Squadron ",
     "email": "squadron@nysenate.gov",
     "contact_link": "http://www.nysenate.gov/senator/daniel-l-squadron/contact",
     "district": "District 26",
@@ -1837,7 +1953,9 @@
     "social_twitter": "http://www.twitter.com/danielsquadron"
 }, {
     "photo": "http://www.nysenate.gov/files/imagecache/senator_teaser/profile-pictures/Official%20Website%20Headshot_0.jpg",
-    "name": "Stavisky, Toby AnnContact",
+    "first_name": "Toby Ann",
+    "last_name": "Stavisky",
+    "full_name": "Toby Ann Stavisky ",
     "email": "stavisky@nysenate.gov",
     "contact_link": "http://www.nysenate.gov/senator/toby-ann-stavisky/contact",
     "district": "District 16",
@@ -1866,7 +1984,9 @@
     "social_twitter": "https://twitter.com/tobystavisky"
 }, {
     "photo": "http://www.nysenate.gov/files/imagecache/senator_teaser/profile-pictures/%2803-09-09%29%20Stewart-Cousins%20HS-016.jpg",
-    "name": "Stewart-Cousins, AndreaContact",
+    "first_name": "Andrea",
+    "last_name": "Stewart-Cousins",
+    "full_name": "Andrea Stewart-Cousins ",
     "email": "scousins@senate.state.ny.us",
     "contact_link": "http://www.nysenate.gov/senator/andrea-stewart-cousins/contact",
     "district": "District 35",
@@ -1903,7 +2023,9 @@
     "social_twitter": ""
 }, {
     "photo": "http://www.nysenate.gov/files/imagecache/senator_teaser/profile-pictures/Valesky-HSmp.jpg",
-    "name": "Valesky, David J.Contact",
+    "first_name": "David J.",
+    "last_name": "Valesky",
+    "full_name": "David J. Valesky ",
     "email": "valesky@nysenate.gov",
     "contact_link": "http://www.nysenate.gov/senator/david-j-valesky/contact",
     "district": "District 53",
@@ -1932,7 +2054,9 @@
     "social_twitter": "https://twitter.com/SenDaveValesky"
 }, {
     "photo": "http://www.nysenate.gov/files/imagecache/senator_teaser/profile-pictures/Michael_Venditto.jpg",
-    "name": "Venditto, MichaelContact",
+    "first_name": "Michael",
+    "last_name": "Venditto",
+    "full_name": "Michael Venditto ",
     "email": "Venditto@nysenate.gov",
     "contact_link": "http://www.nysenate.gov/senator/michael-venditto/contact",
     "district": "District 8",
@@ -1960,7 +2084,9 @@
     "social_twitter": ""
 }, {
     "photo": "http://www.nysenate.gov/files/imagecache/senator_teaser/profile-pictures/young%20headshot-ret.jpg",
-    "name": "Young, CatharineContact",
+    "first_name": "Catharine",
+    "last_name": "Young",
+    "full_name": "Catharine Young ",
     "email": "cyoung@senate.state.ny.us",
     "contact_link": "http://www.nysenate.gov/senator/catharine-young/contact",
     "district": "District 57",
