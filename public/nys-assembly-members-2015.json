@@ -1,16 +1,20 @@
 [{
     "photo": "http://assembly.state.ny.us//mem/pic/049.jpg",
-    "name": "Peter Abbate",
+    "first_name": "Peter",
+    "last_name": "Abbate",
+    "full_name": "Peter Abbate",
     "email": "abbatep@assembly.state.ny.us",
     "district": "District 49",
-    "site": "http: //assembly.state.ny.us/mem/Peter-J-Abbate-Jr",
+    "site": "http://assembly.state.ny.us/mem/Peter-J-Abbate-Jr",
     "albany_office_address": "LOB 839 Albany, NY 12248",
     "albany_office_no": "518-455-3053",
     "do_office_address": "6605 Fort Hamilton Parkway Brooklyn, NY 11219",
     "do_office_no": "718-236-1764"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/092.jpg",
-    "name": "Thomas Abinanti",
+    "first_name": "Thomas",
+    "last_name": "Abinanti",
+    "full_name": "Thomas Abinanti",
     "email": " abinantit@assembly.state.ny.us",
     "district": "District 92",
     "site": "http://assembly.state.ny.us/mem/Thomas-J-Abinanti",
@@ -20,7 +24,9 @@
     "do_office_no": "914-631-1605"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/084.jpg",
-    "name": "Carmen Arroyo",
+    "first_name": "Carmen",
+    "last_name": "Arroyo",
+    "full_name": "Carmen Arroyo",
     "email": "ArroyoC@assembly.state.ny.us",
     "district": "District 84",
     "site": "http://assembly.state.ny.us/mem/Carmen-E-Arroyo",
@@ -30,7 +36,9 @@
     "do_office_no": "718-292-2901"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/035.jpg",
-    "name": "Jeffrion Aubry",
+    "first_name": "Jeffrion",
+    "last_name": "Aubry",
+    "full_name": "Jeffrion Aubry",
     "email": "AubryJ@assembly.state.ny.us",
     "district": "District 35",
     "site": "http://assembly.state.ny.us/mem/Jeffrion-L-Aubry",
@@ -40,7 +48,9 @@
     "do_office_no": "718-457-3615"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/120.jpg",
-    "name": "William Barclay",
+    "first_name": "William",
+    "last_name": "Barclay",
+    "full_name": "William Barclay",
     "email": "BarclaW@assembly.state.ny.us",
     "district": "District 120",
     "site": "http://assembly.state.ny.us/mem/William-A-Barclay",
@@ -50,7 +60,9 @@
     "do_office_no": "315-598-5185"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/106.jpg",
-    "name": "Didi Barrett",
+    "first_name": "Didi",
+    "last_name": "Barrett",
+    "full_name": "Didi Barrett",
     "email": "BarrettD@assembly.state.ny.us",
     "district": "District 106",
     "site": "http://assembly.state.ny.us/mem/Didi-Barrett",
@@ -60,7 +72,9 @@
     "do_office_no": "845-454-1703"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/060.jpg",
-    "name": "Charles Barron ",
+    "first_name": "Charles",
+    "last_name": "Barron",
+    "full_name": "Charles Barron",
     "email": "barronc@assembly.state.ny.us",
     "district": "District 60",
     "site": "http://assembly.state.ny.us/mem/Charles-Barron",
@@ -70,7 +84,9 @@
     "do_office_no": "718-257-5824"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/082.jpg",
-    "name": "Michael Benedetto",
+    "first_name": "Michael",
+    "last_name": "Benedetto",
+    "full_name": "Michael Benedetto",
     "email": "benedettom@assembly.state.ny.us",
     "district": "District 82",
     "site": "http://assembly.state.ny.us/mem/Michael-Benedetto",
@@ -80,7 +96,9 @@
     "do_office_no": "718-320-2220"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/042.jpg",
-    "name": "Rodneyse Bichotte",
+    "first_name": "Rodneyse",
+    "last_name": "Bichotte",
+    "full_name": "Rodneyse Bichotte",
     "email": "bichotter@assembly.state.ny.us",
     "district": "District 42",
     "site": "http://assembly.state.ny.us/mem/Rodneyse-Bichotte",
@@ -90,7 +108,9 @@
     "do_office_no": "718-940-0428"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/079.jpg",
-    "name": "Michael  Blake",
+    "first_name": "Michael",
+    "last_name": "Blake",
+    "full_name": "Michael Blake",
     "email": "",
     "district": "District 79",
     "site": "http://assembly.state.ny.us/mem/Michael-Blake",
@@ -100,7 +120,9 @@
     "do_office_no": "718-842-2019"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/117.jpg",
-    "name": "Ken Blankenbush",
+    "first_name": "Ken",
+    "last_name": "Blankenbush",
+    "full_name": "Ken Blankenbush",
     "email": " blankenbushk@assembly.state.ny.us",
     "district": "District 117",
     "site": "http://assembly.state.ny.us/mem/Ken-Blankenbush",
@@ -110,7 +132,9 @@
     "do_office_no": "315-493-3909"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/062.jpg",
-    "name": "Joseph Borelli",
+    "first_name": "Joseph",
+    "last_name": "Borelli",
+    "full_name": "Joseph Borelli",
     "email": "BorelliJ@assembly.state.ny.us",
     "district": "District 62",
     "site": "http://assembly.state.ny.us/mem/Joseph-Borelli",
@@ -120,7 +144,9 @@
     "do_office_no": "718-967-5194"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/098.jpg",
-    "name": "Karl  Brabenec",
+    "first_name": "Karl",
+    "last_name": "Brabenec",
+    "full_name": "Karl Brabenec",
     "email": "",
     "district": "District 98",
     "site": "http://assembly.state.ny.us/mem/Karl-Brabenec",
@@ -130,7 +156,9 @@
     "do_office_no": "845-544-7551"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/026.jpg",
-    "name": "Edward Braunstein",
+    "first_name": "Edward",
+    "last_name": "Braunstein",
+    "full_name": "Edward Braunstein",
     "email": " braunsteine@assembly.state.ny.us",
     "district": "District 26",
     "site": "http://assembly.state.ny.us/mem/Edward-C-Braunstein",
@@ -140,7 +168,9 @@
     "do_office_no": "718-357-3588"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/044.jpg",
-    "name": "James Brennan",
+    "first_name": "James",
+    "last_name": "Brennan",
+    "full_name": "James Brennan",
     "email": "BrennanJ@assembly.state.ny.us",
     "district": "District 44",
     "site": "http://assembly.state.ny.us/mem/James-F-Brennan",
@@ -150,7 +180,9 @@
     "do_office_no": "718-788-7221"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/119.jpg",
-    "name": "Anthony Brindisi",
+    "first_name": "Anthony",
+    "last_name": "Brindisi",
+    "full_name": "Anthony Brindisi",
     "email": "brindisia@assembly.state.ny.us",
     "district": "District 119",
     "site": "http://assembly.state.ny.us/mem/Anthony-Brindisi",
@@ -160,7 +192,9 @@
     "do_office_no": "315-732-1055"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/138.jpg",
-    "name": "Harry Bronson",
+    "first_name": "Harry",
+    "last_name": "Bronson",
+    "full_name": "Harry Bronson",
     "email": " bronsonh@assembly.state.ny.us",
     "district": "District 138",
     "site": "http://assembly.state.ny.us/mem/Harry-B-Bronson",
@@ -170,7 +204,9 @@
     "do_office_no": "585-244-5255"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/046.jpg",
-    "name": "Alec Brook-Krasny",
+    "first_name": "Alec",
+    "last_name": "Brook-Krasny",
+    "full_name": "Alec Brook-Krasny",
     "email": "BrookKrasnyA@assembly.state.ny.us",
     "district": "District 46",
     "site": "http://assembly.state.ny.us/mem/Alec-Brook-Krasny",
@@ -180,7 +216,9 @@
     "do_office_no": "718-266-0267"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/093.jpg",
-    "name": "David Buchwald",
+    "first_name": "David",
+    "last_name": "Buchwald",
+    "full_name": "David Buchwald",
     "email": "BuchwaldD@assembly.state.ny.us",
     "district": "District 93",
     "site": "http://assembly.state.ny.us/mem/David-Buchwald",
@@ -190,7 +228,9 @@
     "do_office_no": "914-244-4450"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/118.jpg",
-    "name": "Marc Butler",
+    "first_name": "Marc",
+    "last_name": "Butler",
+    "full_name": "Marc Butler",
     "email": "ButlerM@assembly.state.ny.us",
     "district": "District 118",
     "site": "http://assembly.state.ny.us/mem/Marc-W-Butler",
@@ -200,7 +240,9 @@
     "do_office_no": "518-762-6486"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/103.jpg",
-    "name": "Kevin Cahill",
+    "first_name": "Kevin",
+    "last_name": "Cahill",
+    "full_name": "Kevin Cahill",
     "email": "CahillK@assembly.state.ny.us",
     "district": "District 103",
     "site": "http://assembly.state.ny.us/mem/Kevin-A-Cahill",
@@ -210,7 +252,9 @@
     "do_office_no": "845-338-9610"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/145.jpg",
-    "name": "John Ceretto",
+    "first_name": "John",
+    "last_name": "Ceretto",
+    "full_name": "John Ceretto",
     "email": " cerettoj@assembly.state.ny.us",
     "district": "District 145",
     "site": "http://assembly.state.ny.us/mem/John-D-Ceretto",
@@ -220,7 +264,9 @@
     "do_office_no": "716-282-6062"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/033.jpg",
-    "name": "Barbara Clark",
+    "first_name": "Barbara",
+    "last_name": "Clark",
+    "full_name": "Barbara Clark",
     "email": "ClarkB@assembly.state.ny.us",
     "district": "District 33",
     "site": "http://assembly.state.ny.us/mem/Barbara-M-Clark",
@@ -230,7 +276,9 @@
     "do_office_no": "718-479-2333"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/047.jpg",
-    "name": "William Colton",
+    "first_name": "William",
+    "last_name": "Colton",
+    "full_name": "William Colton",
     "email": "ColtonW@assembly.state.ny.us",
     "district": "District 47",
     "site": "http://assembly.state.ny.us/mem/William-Colton",
@@ -240,7 +288,9 @@
     "do_office_no": "718-236-1598"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/032.jpg",
-    "name": "Vivian Cook",
+    "first_name": "Vivian",
+    "last_name": "Cook",
+    "full_name": "Vivian Cook",
     "email": "CookV@assembly.state.ny.us",
     "district": "District 32",
     "site": "http://assembly.state.ny.us/mem/Vivian-E-Cook",
@@ -250,7 +300,9 @@
     "do_office_no": "718-322-3975"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/144.jpg",
-    "name": "Jane Corwin",
+    "first_name": "Jane",
+    "last_name": "Corwin",
+    "full_name": "Jane Corwin",
     "email": "CorwinJ@assembly.state.ny.us",
     "district": "District 144",
     "site": "http://assembly.state.ny.us/mem/Jane-L-Corwin",
@@ -260,7 +312,9 @@
     "do_office_no": "716-839-4691"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/085.jpg",
-    "name": "Marcos Crespo",
+    "first_name": "Marcos",
+    "last_name": "Crespo",
+    "full_name": "Marcos Crespo",
     "email": "CrespoM@assembly.state.ny.us",
     "district": "District 85",
     "site": "http://assembly.state.ny.us/mem/Marcos-A-Crespo",
@@ -270,7 +324,9 @@
     "do_office_no": "718-893-0202"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/122.jpg",
-    "name": "Clifford Crouch",
+    "first_name": "Clifford",
+    "last_name": "Crouch",
+    "full_name": "Clifford Crouch",
     "email": "CrouchC@assembly.state.ny.us",
     "district": "District 122",
     "site": "http://assembly.state.ny.us/mem/Clifford-W-Crouch",
@@ -280,7 +336,9 @@
     "do_office_no": "607-648-6080"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/021.jpg",
-    "name": "Brian Curran",
+    "first_name": "Brian",
+    "last_name": "Curran",
+    "full_name": "Brian Curran",
     "email": " curranb@assembly.state.ny.us",
     "district": "District 21",
     "site": "http://assembly.state.ny.us/mem/Brian-Curran",
@@ -290,7 +348,9 @@
     "do_office_no": "516-561-8216"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/063.jpg",
-    "name": "Michael Cusick",
+    "first_name": "Michael",
+    "last_name": "Cusick",
+    "full_name": "Michael Cusick",
     "email": "CusickM@assembly.state.ny.us",
     "district": "District 63",
     "site": "http://assembly.state.ny.us/mem/Michael-Cusick",
@@ -300,7 +360,9 @@
     "do_office_no": "718-370-1384"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/045.jpg",
-    "name": "Steven Cymbrowitz",
+    "first_name": "Steven",
+    "last_name": "Cymbrowitz",
+    "full_name": "Steven Cymbrowitz",
     "email": "CymbroS@assembly.state.ny.us",
     "district": "District 45",
     "site": "http://assembly.state.ny.us/mem/Steven-Cymbrowitz",
@@ -310,7 +372,9 @@
     "do_office_no": "718-743-4078"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/053.jpg",
-    "name": "Maritza Davila",
+    "first_name": "Maritza",
+    "last_name": "Davila",
+    "full_name": "Maritza Davila",
     "email": "DavilaM@assembly.state.ny.us",
     "district": "District 53",
     "site": "http://assembly.state.ny.us/mem/Maritza-Davila",
@@ -320,7 +384,9 @@
     "do_office_no": "718-443-1205"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/034.jpg",
-    "name": "Michael DenDekker",
+    "first_name": "Michael",
+    "last_name": "DenDekker",
+    "full_name": "Michael DenDekker",
     "email": "DenDekkerM@assembly.state.ny.us",
     "district": "District 34",
     "site": "http://assembly.state.ny.us/mem/Michael-G-DenDekker",
@@ -330,7 +396,9 @@
     "do_office_no": "718-457-0384"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/054.jpg",
-    "name": "Erik  Dilan",
+    "first_name": "Erik",
+    "last_name": "Dilan",
+    "full_name": "Erik Dilan",
     "email": "",
     "district": "District 54",
     "site": "http://assembly.state.ny.us/mem/Erik-M-Dilan",
@@ -340,7 +408,9 @@
     "do_office_no": null
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/081.jpg",
-    "name": "Jeffrey Dinowitz",
+    "first_name": "Jeffrey",
+    "last_name": "Dinowitz",
+    "full_name": "Jeffrey Dinowitz",
     "email": "DinowiJ@assembly.state.ny.us",
     "district": "District 81",
     "site": "http://assembly.state.ny.us/mem/Jeffrey-Dinowitz",
@@ -350,7 +420,9 @@
     "do_office_no": "718-796-5345"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/147.jpg",
-    "name": "David DiPietro",
+    "first_name": "David",
+    "last_name": "DiPietro",
+    "full_name": "David DiPietro",
     "email": "DiPietroD@assembly.state.ny.us",
     "district": "District 147",
     "site": "http://assembly.state.ny.us/mem/David-DiPietro",
@@ -360,7 +432,9 @@
     "do_office_no": "716-655-0951"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/115.jpg",
-    "name": "Janet Duprey",
+    "first_name": "Janet",
+    "last_name": "Duprey",
+    "full_name": "Janet Duprey",
     "email": "DupreyJ@assembly.state.ny.us",
     "district": "District 115",
     "site": "http://assembly.state.ny.us/mem/Janet-L-Duprey",
@@ -370,7 +444,9 @@
     "do_office_no": "518-562-1986"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/004.jpg",
-    "name": "Steve Englebright",
+    "first_name": "Steve",
+    "last_name": "Englebright",
+    "full_name": "Steve Englebright",
     "email": "EngleS@assembly.state.ny.us",
     "district": "District 4",
     "site": "http://assembly.state.ny.us/mem/Steve-Englebright",
@@ -380,7 +456,9 @@
     "do_office_no": "631-751-3094"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/109.jpg",
-    "name": "Patricia Fahy",
+    "first_name": "Patricia",
+    "last_name": "Fahy",
+    "full_name": "Patricia Fahy",
     "email": "FahyP@assembly.state.ny.us",
     "district": "District 109",
     "site": "http://assembly.state.ny.us/mem/Patricia-Fahy",
@@ -390,7 +468,9 @@
     "do_office_no": null
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/071.jpg",
-    "name": "Herman Farrell",
+    "first_name": "Herman",
+    "last_name": "Farrell",
+    "full_name": "Herman Farrell",
     "email": "FarrelH@assembly.state.ny.us",
     "district": "District 71",
     "site": "http://assembly.state.ny.us/mem/Herman-D-Farrell-Jr",
@@ -400,7 +480,9 @@
     "do_office_no": "212-234-1430"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/126.jpg",
-    "name": "Gary Finch",
+    "first_name": "Gary",
+    "last_name": "Finch",
+    "full_name": "Gary Finch",
     "email": "FinchG@assembly.state.ny.us",
     "district": "District 126",
     "site": "http://assembly.state.ny.us/mem/Gary-D-Finch",
@@ -410,7 +492,9 @@
     "do_office_no": "315-255-3045"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/008.jpg",
-    "name": "Michael Fitzpatrick",
+    "first_name": "Michael",
+    "last_name": "Fitzpatrick",
+    "full_name": "Michael Fitzpatrick",
     "email": "FitzpatrickM@assembly.state.ny.us",
     "district": "District 8",
     "site": "http://assembly.state.ny.us/mem/Michael-J-Fitzpatrick",
@@ -420,7 +504,9 @@
     "do_office_no": "631-724-2929"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/124.jpg",
-    "name": "Christopher Friend",
+    "first_name": "Christopher",
+    "last_name": "Friend",
+    "full_name": "Christopher Friend",
     "email": " friendc@assembly.state.ny.us",
     "district": "District 124",
     "site": "http://assembly.state.ny.us/mem/Christopher-S-Friend",
@@ -430,7 +516,9 @@
     "do_office_no": "607-562-3602"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/095.jpg",
-    "name": "Sandy Galef",
+    "first_name": "Sandy",
+    "last_name": "Galef",
+    "full_name": "Sandy Galef",
     "email": "GalefS@assembly.state.ny.us",
     "district": "District 95",
     "site": "http://assembly.state.ny.us/mem/Sandy-Galef",
@@ -440,7 +528,9 @@
     "do_office_no": "914-941-1111"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/137.jpg",
-    "name": "David Gantt",
+    "first_name": "David",
+    "last_name": "Gantt",
+    "full_name": "David Gantt",
     "email": "GanttD@assembly.state.ny.us",
     "district": "District 137",
     "site": "http://assembly.state.ny.us/mem/David-F-Gantt",
@@ -450,7 +540,9 @@
     "do_office_no": "585-454-3670"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/007.jpg",
-    "name": "Andrew Garbarino",
+    "first_name": "Andrew",
+    "last_name": "Garbarino",
+    "full_name": "Andrew Garbarino",
     "email": "GarbarinoA@assembly.state.ny.us",
     "district": "District 7",
     "site": "http://assembly.state.ny.us/mem/Andrew-R-Garbarino",
@@ -460,7 +552,9 @@
     "do_office_no": "631-589-0348"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/148.jpg",
-    "name": "Joseph Giglio",
+    "first_name": "Joseph",
+    "last_name": "Giglio",
+    "full_name": "Joseph Giglio",
     "email": "GiglioJ@assembly.state.ny.us",
     "district": "District 148",
     "site": "http://assembly.state.ny.us/mem/Joseph-M-Giglio",
@@ -470,7 +564,9 @@
     "do_office_no": "716-373-7103"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/080.jpg",
-    "name": "Mark Gjonaj",
+    "first_name": "Mark",
+    "last_name": "Gjonaj",
+    "full_name": "Mark Gjonaj",
     "email": "GjonajM@assembly.state.ny.us",
     "district": "District 80",
     "site": "http://assembly.state.ny.us/mem/Mark-Gjonaj",
@@ -480,7 +576,9 @@
     "do_office_no": "718-409-0109"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/066.jpg",
-    "name": "Deborah Glick",
+    "first_name": "Deborah",
+    "last_name": "Glick",
+    "full_name": "Deborah Glick",
     "email": "GlickD@assembly.state.ny.us",
     "district": "District 66",
     "site": "http://assembly.state.ny.us/mem/Deborah-J-Glick",
@@ -490,7 +588,9 @@
     "do_office_no": "212-674-5153"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/023.jpg",
-    "name": "Phillip Goldfeder",
+    "first_name": "Phillip",
+    "last_name": "Goldfeder",
+    "full_name": "Phillip Goldfeder",
     "email": "GoldfederP@assembly.state.ny.us",
     "district": "District 23",
     "site": "http://assembly.state.ny.us/mem/Phillip-Goldfeder",
@@ -500,7 +600,9 @@
     "do_office_no": "718-641-8755"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/150.jpg",
-    "name": "Andy Goodell",
+    "first_name": "Andy",
+    "last_name": "Goodell",
+    "full_name": "Andy Goodell",
     "email": " goodella@assembly.state.ny.us",
     "district": "District 150",
     "site": "http://assembly.state.ny.us/mem/Andy-Goodell",
@@ -510,7 +612,9 @@
     "do_office_no": "716-664-7773"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/075.jpg",
-    "name": "Richard Gottfried",
+    "first_name": "Richard",
+    "last_name": "Gottfried",
+    "full_name": "Richard Gottfried",
     "email": "GottfriedR@assembly.state.ny.us",
     "district": "District 75",
     "site": "http://assembly.state.ny.us/mem/Richard-N-Gottfried",
@@ -520,7 +624,9 @@
     "do_office_no": "212-807-7900"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/005.jpg",
-    "name": "Al Graf",
+    "first_name": "Al",
+    "last_name": "Graf",
+    "full_name": "Al Graf",
     "email": " grafa@assembly.state.ny.us",
     "district": "District 5",
     "site": "http://assembly.state.ny.us/mem/Al-Graf",
@@ -530,7 +636,9 @@
     "do_office_no": "631-585-0230"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/100.jpg",
-    "name": "Aileen Gunther",
+    "first_name": "Aileen",
+    "last_name": "Gunther",
+    "full_name": "Aileen Gunther",
     "email": "GuntheA@assembly.state.ny.us",
     "district": "District 100",
     "site": "http://assembly.state.ny.us/mem/Aileen-M-Gunther",
@@ -540,7 +648,9 @@
     "do_office_no": "845-794-5807"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/139.jpg",
-    "name": "Stephen Hawley",
+    "first_name": "Stephen",
+    "last_name": "Hawley",
+    "full_name": "Stephen Hawley",
     "email": "HawleyS@assembly.state.ny.us",
     "district": "District 139",
     "site": "http://assembly.state.ny.us/mem/Stephen-Hawley",
@@ -550,7 +660,9 @@
     "do_office_no": "585-589-5780"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/083.jpg",
-    "name": "Carl Heastie",
+    "first_name": "Carl",
+    "last_name": "Heastie",
+    "full_name": "Carl Heastie",
     "email": "Speaker@assembly.state.ny.us",
     "district": "District 83",
     "site": "http://assembly.state.ny.us/mem/Carl-E-Heastie",
@@ -560,7 +672,9 @@
     "do_office_no": "718-654-6539"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/028.jpg",
-    "name": "Andrew Hevesi",
+    "first_name": "Andrew",
+    "last_name": "Hevesi",
+    "full_name": "Andrew Hevesi",
     "email": "HevesiA@assembly.state.ny.us",
     "district": "District 28",
     "site": "http://assembly.state.ny.us/mem/Andrew-Hevesi",
@@ -570,7 +684,9 @@
     "do_office_no": "718-263-5595"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/048.jpg",
-    "name": "Dov Hikind",
+    "first_name": "Dov",
+    "last_name": "Hikind",
+    "full_name": "Dov Hikind",
     "email": "HikindD@assembly.state.ny.us",
     "district": "District 48",
     "site": "http://assembly.state.ny.us/mem/Dov-Hikind",
@@ -580,7 +696,9 @@
     "do_office_no": "718-853-9616"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/018.jpg",
-    "name": "Earlene Hooper",
+    "first_name": "Earlene",
+    "last_name": "Hooper",
+    "full_name": "Earlene Hooper",
     "email": "",
     "district": "District 18",
     "site": "http://assembly.state.ny.us/mem/Earlene-Hooper",
@@ -590,7 +708,9 @@
     "do_office_no": "516-489-6610"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/097.jpg",
-    "name": "Ellen Jaffee",
+    "first_name": "Ellen",
+    "last_name": "Jaffee",
+    "full_name": "Ellen Jaffee",
     "email": "JaffeeE@assembly.state.ny.us",
     "district": "District 97",
     "site": "http://assembly.state.ny.us/mem/Ellen-Jaffee",
@@ -600,7 +720,9 @@
     "do_office_no": "845-624-4601"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/011.jpg",
-    "name": "Kimberly  Jean-Pierre",
+    "first_name": "Kimberly",
+    "last_name": "Jean-Pierre",
+    "full_name": "Kimberly Jean-Pierre",
     "email": "jeanpierrek@assembly.state.ny.us",
     "district": "District 11",
     "site": "http://assembly.state.ny.us/mem/Kimberly-Jean-Pierre",
@@ -610,7 +732,9 @@
     "do_office_no": "631-957-2087"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/135.jpg",
-    "name": "Mark Johns",
+    "first_name": "Mark",
+    "last_name": "Johns",
+    "full_name": "Mark Johns",
     "email": " johnsm@assembly.state.ny.us",
     "district": "District 135",
     "site": "http://assembly.state.ny.us/mem/Mark-Johns",
@@ -620,7 +744,9 @@
     "do_office_no": "585-223-9130"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/077.jpg",
-    "name": "Latoya Joyner",
+    "first_name": "Latoya",
+    "last_name": "Joyner",
+    "full_name": "Latoya Joyner",
     "email": "joynerl@assembly.state.ny.us",
     "district": "District 77",
     "site": "http://assembly.state.ny.us/mem/Latoya-Joyner",
@@ -630,7 +756,9 @@
     "do_office_no": "212-312-1498"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/020.jpg",
-    "name": "Todd Kaminsky",
+    "first_name": "Todd",
+    "last_name": "Kaminsky",
+    "full_name": "Todd Kaminsky",
     "email": "kaminskyt@assembly.state.ny.us",
     "district": "District 20",
     "site": "http://assembly.state.ny.us/mem/Todd-Kaminsky",
@@ -640,7 +768,9 @@
     "do_office_no": "516-431-0500"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/094.jpg",
-    "name": "Steve Katz",
+    "first_name": "Steve",
+    "last_name": "Katz",
+    "full_name": "Steve Katz",
     "email": " katzs@assembly.state.ny.us",
     "district": "District 94",
     "site": "http://assembly.state.ny.us/mem/Steve-Katz",
@@ -650,7 +780,9 @@
     "do_office_no": "845-628-3781"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/074.jpg",
-    "name": "Brian Kavanagh",
+    "first_name": "Brian",
+    "last_name": "Kavanagh",
+    "full_name": "Brian Kavanagh",
     "email": "KavanaghB@assembly.state.ny.us",
     "district": "District 74",
     "site": "http://assembly.state.ny.us/mem/Brian-Kavanagh",
@@ -660,7 +792,9 @@
     "do_office_no": "212-979-9696"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/142.jpg",
-    "name": "Michael Kearns",
+    "first_name": "Michael",
+    "last_name": "Kearns",
+    "full_name": "Michael Kearns",
     "email": "kearnsm@assembly.state.ny.us",
     "district": "District 142",
     "site": "http://assembly.state.ny.us/mem/Michael-P-Kearns",
@@ -670,7 +804,9 @@
     "do_office_no": "716-608-6099"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/040.jpg",
-    "name": "Ron Kim",
+    "first_name": "Ron",
+    "last_name": "Kim",
+    "full_name": "Ron Kim",
     "email": "KimR@assembly.state.ny.us",
     "district": "District 40",
     "site": "http://assembly.state.ny.us/mem/Ron-Kim",
@@ -680,7 +816,9 @@
     "do_office_no": "718-939-0195"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/131.jpg",
-    "name": "Brian M. Kolb",
+    "first_name": "Brian",
+    "last_name": "M.",
+    "full_name": "Brian M. Kolb",
     "email": "KolbB@assembly.state.ny.us",
     "district": "District 131",
     "site": "http://assembly.state.ny.us/mem/Brian-M-Kolb",
@@ -690,7 +828,9 @@
     "do_office_no": "315-781-2030"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/105.jpg",
-    "name": "Kieran Michael Lalor",
+    "first_name": "Kieran",
+    "last_name": "Michael",
+    "full_name": "Kieran Michael Lalor",
     "email": "LalorK@assembly.state.ny.us",
     "district": "District 105",
     "site": "http://assembly.state.ny.us/mem/Kieran-Michael-Lalor",
@@ -700,7 +840,9 @@
     "do_office_no": "845-221-2202"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/013.jpg",
-    "name": "Charles Lavine",
+    "first_name": "Charles",
+    "last_name": "Lavine",
+    "full_name": "Charles Lavine",
     "email": "LavineC@assembly.state.ny.us",
     "district": "District 13",
     "site": "http://assembly.state.ny.us/mem/Charles-D-Lavine",
@@ -710,7 +852,9 @@
     "do_office_no": "516-676-0050"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/134.jpg",
-    "name": "Peter  Lawrence",
+    "first_name": "Peter",
+    "last_name": "Lawrence",
+    "full_name": "Peter Lawrence",
     "email": "lawrencep@assembly.state.ny.us",
     "district": "District 134",
     "site": "http://assembly.state.ny.us/mem/Peter-Lawrence",
@@ -720,7 +864,9 @@
     "do_office_no": "585-225-4190"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/050.jpg",
-    "name": "Joseph Lentol",
+    "first_name": "Joseph",
+    "last_name": "Lentol",
+    "full_name": "Joseph Lentol",
     "email": "LentolJ@assembly.state.ny.us",
     "district": "District 50",
     "site": "http://assembly.state.ny.us/mem/Joseph-R-Lentol",
@@ -730,7 +876,9 @@
     "do_office_no": "718-383-7474"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/125.jpg",
-    "name": "Barbara Lifton",
+    "first_name": "Barbara",
+    "last_name": "Lifton",
+    "full_name": "Barbara Lifton",
     "email": "LiftonB@assembly.state.ny.us",
     "district": "District 125",
     "site": "http://assembly.state.ny.us/mem/Barbara-Lifton",
@@ -740,7 +888,9 @@
     "do_office_no": "607-277-8030"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/072.jpg",
-    "name": "Guillermo Linares",
+    "first_name": "Guillermo",
+    "last_name": "Linares",
+    "full_name": "Guillermo Linares",
     "email": "linaresg@assembly.state.ny.us",
     "district": "District 72",
     "site": "http://assembly.state.ny.us/mem/Guillermo-Linares",
@@ -750,7 +900,9 @@
     "do_office_no": "212-544-2278"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/102.jpg",
-    "name": "Peter Lopez",
+    "first_name": "Peter",
+    "last_name": "Lopez",
+    "full_name": "Peter Lopez",
     "email": "LopezP@assembly.state.ny.us",
     "district": "District 102",
     "site": "http://assembly.state.ny.us/mem/Peter-D-Lopez",
@@ -760,7 +912,9 @@
     "do_office_no": "518-943-1371"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/123.jpg",
-    "name": "Donna Lupardo",
+    "first_name": "Donna",
+    "last_name": "Lupardo",
+    "full_name": "Donna Lupardo",
     "email": "LupardoD@assembly.state.ny.us",
     "district": "District 123",
     "site": "http://assembly.state.ny.us/mem/Donna-A-Lupardo",
@@ -770,7 +924,9 @@
     "do_office_no": "607-723-9047"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/010.jpg",
-    "name": "Chad Lupinacci",
+    "first_name": "Chad",
+    "last_name": "Lupinacci",
+    "full_name": "Chad Lupinacci",
     "email": "LupinacciC@assembly.state.ny.us",
     "district": "District 10",
     "site": "http://assembly.state.ny.us/mem/Chad-A-Lupinacci",
@@ -780,7 +936,9 @@
     "do_office_no": "631-271-8025"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/121.jpg",
-    "name": "William Magee",
+    "first_name": "William",
+    "last_name": "Magee",
+    "full_name": "William Magee",
     "email": "MageeW@assembly.state.ny.us",
     "district": "District 121",
     "site": "http://assembly.state.ny.us/mem/William-Magee",
@@ -790,7 +948,9 @@
     "do_office_no": "315-361-4125"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/129.jpg",
-    "name": "William Magnarelli",
+    "first_name": "William",
+    "last_name": "Magnarelli",
+    "full_name": "William Magnarelli",
     "email": "MagnarW@assembly.state.ny.us",
     "district": "District 129",
     "site": "http://assembly.state.ny.us/mem/William-B-Magnarelli",
@@ -800,7 +960,9 @@
     "do_office_no": "315-428-9651"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/064.jpg",
-    "name": "Nicole Malliotakis",
+    "first_name": "Nicole",
+    "last_name": "Malliotakis",
+    "full_name": "Nicole Malliotakis",
     "email": " malliotakisn@assembly.state.ny.us",
     "district": "District 64",
     "site": "http://assembly.state.ny.us/mem/Nicole-Malliotakis",
@@ -810,7 +972,9 @@
     "do_office_no": "718-987-0197"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/030.jpg",
-    "name": "Margaret Markey",
+    "first_name": "Margaret",
+    "last_name": "Markey",
+    "full_name": "Margaret Markey",
     "email": "MarkeyM@assembly.state.ny.us",
     "district": "District 30",
     "site": "http://assembly.state.ny.us/mem/Margaret-M-Markey",
@@ -820,7 +984,9 @@
     "do_office_no": "718-651-3185"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/090.jpg",
-    "name": "Shelley Mayer",
+    "first_name": "Shelley",
+    "last_name": "Mayer",
+    "full_name": "Shelley Mayer",
     "email": "MayerS@assembly.state.ny.us",
     "district": "District 90",
     "site": "http://assembly.state.ny.us/mem/Shelley-Mayer",
@@ -830,7 +996,9 @@
     "do_office_no": "914-779-8805"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/108.jpg",
-    "name": "John McDonald",
+    "first_name": "John",
+    "last_name": "McDonald",
+    "full_name": "John McDonald",
     "email": "McDonaldJ@assembly.state.ny.us",
     "district": "District 108",
     "site": "http://assembly.state.ny.us/mem/John-T-McDonald-III",
@@ -840,7 +1008,9 @@
     "do_office_no": null
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/014.jpg",
-    "name": "David McDonough",
+    "first_name": "David",
+    "last_name": "McDonough",
+    "full_name": "David McDonough",
     "email": "mcdonoughd@assembly.state.ny.us",
     "district": "District 14",
     "site": "http://assembly.state.ny.us/mem/David-G-McDonough",
@@ -850,7 +1020,9 @@
     "do_office_no": "516-409-2070"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/017.jpg",
-    "name": "Tom McKevitt",
+    "first_name": "Tom",
+    "last_name": "McKevitt",
+    "full_name": "Tom McKevitt",
     "email": "MckeviT@assembly.state.ny.us",
     "district": "District 17",
     "site": "http://assembly.state.ny.us/mem/Tom-McKevitt",
@@ -860,7 +1032,9 @@
     "do_office_no": "516-228-4960"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/107.jpg",
-    "name": "Steven McLaughlin",
+    "first_name": "Steven",
+    "last_name": "McLaughlin",
+    "full_name": "Steven McLaughlin",
     "email": " mclaughlins@assembly.state.ny.us",
     "district": "District 107",
     "site": "http://assembly.state.ny.us/mem/Steven-F-McLaughlin",
@@ -870,7 +1044,9 @@
     "do_office_no": "518-272-6149"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/038.jpg",
-    "name": "Michael Miller",
+    "first_name": "Michael",
+    "last_name": "Miller",
+    "full_name": "Michael Miller",
     "email": "MillerMG@assembly.state.ny.us",
     "district": "District 38",
     "site": "http://assembly.state.ny.us/mem/Michael-Miller",
@@ -880,7 +1056,9 @@
     "do_office_no": "718-805-0950"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/015.jpg",
-    "name": "Michael Montesano",
+    "first_name": "Michael",
+    "last_name": "Montesano",
+    "full_name": "Michael Montesano",
     "email": "MontesanoM@assembly.state.ny.us",
     "district": "District 15",
     "site": "http://assembly.state.ny.us/mem/Michael-Montesano",
@@ -890,7 +1068,9 @@
     "do_office_no": "516-937-3571"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/136.jpg",
-    "name": "Joseph Morelle",
+    "first_name": "Joseph",
+    "last_name": "Morelle",
+    "full_name": "Joseph Morelle",
     "email": "morellej@assembly.state.ny.us",
     "district": "District 136",
     "site": "http://assembly.state.ny.us/mem/Joseph-D-Morelle",
@@ -900,7 +1080,9 @@
     "do_office_no": "585-467-0410"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/057.jpg",
-    "name": "Walter Mosley",
+    "first_name": "Walter",
+    "last_name": "Mosley",
+    "full_name": "Walter Mosley",
     "email": "MosleyW@assembly.state.ny.us",
     "district": "District 57",
     "site": "http://assembly.state.ny.us/mem/Walter-T-Mosley",
@@ -910,7 +1092,9 @@
     "do_office_no": "718-596-0100"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/039.jpg",
-    "name": "Francisco Moya",
+    "first_name": "Francisco",
+    "last_name": "Moya",
+    "full_name": "Francisco Moya",
     "email": " moyaf@assembly.state.ny.us",
     "district": "District 39",
     "site": "http://assembly.state.ny.us/mem/Francisco-P-Moya",
@@ -920,7 +1104,9 @@
     "do_office_no": "718-458-5367"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/003.jpg",
-    "name": "Dean Murray",
+    "first_name": "Dean",
+    "last_name": "Murray",
+    "full_name": "Dean Murray",
     "email": "murrayd@assembly.state.ny.us",
     "district": "District 3",
     "site": "http://assembly.state.ny.us/mem/Dean-Murray",
@@ -930,7 +1116,9 @@
     "do_office_no": "631-207-0073"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/133.jpg",
-    "name": "Bill Nojay",
+    "first_name": "Bill",
+    "last_name": "Nojay",
+    "full_name": "Bill Nojay",
     "email": "NojayW@assembly.state.ny.us",
     "district": "District 133",
     "site": "http://assembly.state.ny.us/mem/Bill-Nojay",
@@ -940,7 +1128,9 @@
     "do_office_no": "585-346-0002"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/037.jpg",
-    "name": "Catherine Nolan",
+    "first_name": "Catherine",
+    "last_name": "Nolan",
+    "full_name": "Catherine Nolan",
     "email": "NolanC@assembly.state.ny.us",
     "district": "District 37",
     "site": "http://assembly.state.ny.us/mem/Catherine-Nolan",
@@ -950,7 +1140,9 @@
     "do_office_no": "718-784-3194"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/069.jpg",
-    "name": "Daniel O'Donnell",
+    "first_name": "Daniel",
+    "last_name": "O'Donnell",
+    "full_name": "Daniel O'Donnell",
     "email": "OdonnellD@assembly.state.ny.us",
     "district": "District 69",
     "site": "http://assembly.state.ny.us/mem/Daniel-J-O'Donnell",
@@ -960,7 +1152,9 @@
     "do_office_no": "212-866-3970"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/130.jpg",
-    "name": "Bob Oaks",
+    "first_name": "Bob",
+    "last_name": "Oaks",
+    "full_name": "Bob Oaks",
     "email": "OaksR@assembly.state.ny.us",
     "district": "District 130",
     "site": "http://assembly.state.ny.us/mem/Bob-Oaks",
@@ -970,7 +1164,9 @@
     "do_office_no": "315-946-5166"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/051.jpg",
-    "name": "Félix Ortiz",
+    "first_name": "Félix",
+    "last_name": "Ortiz",
+    "full_name": "Félix Ortiz",
     "email": "OrtizF@assembly.state.ny.us",
     "district": "District 51",
     "site": "http://assembly.state.ny.us/mem/Felix-W-Ortiz",
@@ -980,7 +1176,9 @@
     "do_office_no": "718-492-6334"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/091.jpg",
-    "name": "Steven Otis",
+    "first_name": "Steven",
+    "last_name": "Otis",
+    "full_name": "Steven Otis",
     "email": "OtisS@assembly.state.ny.us",
     "district": "District 91",
     "site": "http://assembly.state.ny.us/mem/Steven-Otis",
@@ -990,7 +1188,9 @@
     "do_office_no": "914-939-7028"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/132.jpg",
-    "name": "Philip Palmesano",
+    "first_name": "Philip",
+    "last_name": "Palmesano",
+    "full_name": "Philip Palmesano",
     "email": " palmesanop@assembly.state.ny.us",
     "district": "District 132",
     "site": "http://assembly.state.ny.us/mem/Philip-A-Palmesano",
@@ -1000,7 +1200,9 @@
     "do_office_no": "607-776-9691"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/002.jpg",
-    "name": "Anthony H. Palumbo",
+    "first_name": "Anthony",
+    "last_name": "H.",
+    "full_name": "Anthony H. Palumbo",
     "email": "palumboa@assembly.state.ny.us",
     "district": "District 2",
     "site": "http://assembly.state.ny.us/mem/Anthony-H-Palumbo",
@@ -1010,7 +1212,9 @@
     "do_office_no": "631-727-0204"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/088.jpg",
-    "name": "Amy Paulin",
+    "first_name": "Amy",
+    "last_name": "Paulin",
+    "full_name": "Amy Paulin",
     "email": "PaulinA@assembly.state.ny.us",
     "district": "District 88",
     "site": "http://assembly.state.ny.us/mem/Amy-Paulin",
@@ -1020,7 +1224,9 @@
     "do_office_no": "914-723-1115"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/141.jpg",
-    "name": "Crystal Peoples-Stokes",
+    "first_name": "Crystal",
+    "last_name": "Peoples-Stokes",
+    "full_name": "Crystal Peoples-Stokes",
     "email": "PeopleC@assembly.state.ny.us",
     "district": "District 141",
     "site": "http://assembly.state.ny.us/mem/Crystal-D-Peoples-Stokes",
@@ -1030,7 +1236,9 @@
     "do_office_no": "716-897-9714"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/058.jpg",
-    "name": "N. Nick Perry",
+    "first_name": "N.",
+    "last_name": "Nick",
+    "full_name": "N. Nick Perry",
     "email": "PerryN@assembly.state.ny.us",
     "district": "District 58",
     "site": "http://assembly.state.ny.us/mem/N-Nick-Perry",
@@ -1040,7 +1248,9 @@
     "do_office_no": "718-385-3336"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/059.jpg",
-    "name": "Roxanne Persaud",
+    "first_name": "Roxanne",
+    "last_name": "Persaud",
+    "full_name": "Roxanne Persaud",
     "email": "",
     "district": "District 59",
     "site": "http://assembly.state.ny.us/mem/Roxanne-Persaud",
@@ -1050,7 +1260,9 @@
     "do_office_no": null
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/086.jpg",
-    "name": "Victor Pichardo",
+    "first_name": "Victor",
+    "last_name": "Pichardo",
+    "full_name": "Victor Pichardo",
     "email": "PichardoV@assembly.state.ny.us",
     "district": "District 86",
     "site": "http://assembly.state.ny.us/mem/Victor-M-Pichardo",
@@ -1060,7 +1272,9 @@
     "do_office_no": "718-933-6909"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/089.jpg",
-    "name": "J. Gary Pretlow",
+    "first_name": "J.",
+    "last_name": "Gary",
+    "full_name": "J. Gary Pretlow",
     "email": "PretloJ@assembly.state.ny.us",
     "district": "District 89",
     "site": "http://assembly.state.ny.us/mem/J-Gary-Pretlow",
@@ -1070,7 +1284,9 @@
     "do_office_no": "914-667-0127"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/073.jpg",
-    "name": "Dan Quart",
+    "first_name": "Dan",
+    "last_name": "Quart",
+    "full_name": "Dan Quart",
     "email": "quartd@assembly.state.ny.us",
     "district": "District 73",
     "site": "http://assembly.state.ny.us/mem/Dan-Quart",
@@ -1080,7 +1296,9 @@
     "do_office_no": "212-605-0937"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/019.jpg",
-    "name": "Edward Ra",
+    "first_name": "Edward",
+    "last_name": "Ra",
+    "full_name": "Edward Ra",
     "email": " rae@assembly.state.ny.us",
     "district": "District 19",
     "site": "http://assembly.state.ny.us/mem/Edward-P-Ra",
@@ -1090,7 +1308,9 @@
     "do_office_no": "516-535-4095"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/012.jpg",
-    "name": "Andrew Raia",
+    "first_name": "Andrew",
+    "last_name": "Raia",
+    "full_name": "Andrew Raia",
     "email": "RaiaA@assembly.state.ny.us",
     "district": "District 12",
     "site": "http://assembly.state.ny.us/mem/Andrew-P-Raia",
@@ -1100,7 +1320,9 @@
     "do_office_no": "631-261-4151"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/006.jpg",
-    "name": "Phil Ramos",
+    "first_name": "Phil",
+    "last_name": "Ramos",
+    "full_name": "Phil Ramos",
     "email": "RamosP@assembly.state.ny.us",
     "district": "District 6",
     "site": "http://assembly.state.ny.us/mem/Phil-Ramos",
@@ -1110,7 +1332,9 @@
     "do_office_no": "631-435-3214"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/078.jpg",
-    "name": "José Rivera",
+    "first_name": "José",
+    "last_name": "Rivera",
+    "full_name": "José Rivera",
     "email": "RiveraJ@assembly.state.ny.us",
     "district": "District 78",
     "site": "http://assembly.state.ny.us/mem/Jose-Rivera",
@@ -1120,7 +1344,9 @@
     "do_office_no": "718-933-2204"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/128.jpg",
-    "name": "Samuel Roberts",
+    "first_name": "Samuel",
+    "last_name": "Roberts",
+    "full_name": "Samuel Roberts",
     "email": "RobertsS@assembly.state.ny.us",
     "district": "District 128",
     "site": "http://assembly.state.ny.us/mem/Samuel-D-Roberts",
@@ -1130,7 +1356,9 @@
     "do_office_no": "315-449-9536"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/056.jpg",
-    "name": "Annette Robinson",
+    "first_name": "Annette",
+    "last_name": "Robinson",
+    "full_name": "Annette Robinson",
     "email": "RobinsonA@assembly.state.ny.us",
     "district": "District 56",
     "site": "http://assembly.state.ny.us/mem/Annette-Robinson",
@@ -1140,7 +1368,9 @@
     "do_office_no": "718-399-7630"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/068.jpg",
-    "name": "Robert Rodriguez",
+    "first_name": "Robert",
+    "last_name": "Rodriguez",
+    "full_name": "Robert Rodriguez",
     "email": " rodriguezrj@assembly.state.ny.us",
     "district": "District 68",
     "site": "http://assembly.state.ny.us/mem/Robert-J-Rodriguez",
@@ -1150,7 +1380,9 @@
     "do_office_no": "212-828-3953"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/067.jpg",
-    "name": "Linda Rosenthal",
+    "first_name": "Linda",
+    "last_name": "Rosenthal",
+    "full_name": "Linda Rosenthal",
     "email": "RosentL@assembly.state.ny.us",
     "district": "District 67",
     "site": "http://assembly.state.ny.us/mem/Linda-B-Rosenthal",
@@ -1160,7 +1392,9 @@
     "do_office_no": "212-873-6368"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/025.jpg",
-    "name": "Nily Rozic",
+    "first_name": "Nily",
+    "last_name": "Rozic",
+    "full_name": "Nily Rozic",
     "email": "RozicN@assembly.state.ny.us",
     "district": "District 25",
     "site": "http://assembly.state.ny.us/mem/Nily-Rozic",
@@ -1170,7 +1404,9 @@
     "do_office_no": "718-820-0241"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/116.jpg",
-    "name": "Addie Russell",
+    "first_name": "Addie",
+    "last_name": "Russell",
+    "full_name": "Addie Russell",
     "email": "RussellA@assembly.state.ny.us",
     "district": "District 116",
     "site": "http://assembly.state.ny.us/mem/Addie-J-Russell",
@@ -1180,7 +1416,9 @@
     "do_office_no": "Watertown, NY 13601"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/149.jpg",
-    "name": "Sean Ryan",
+    "first_name": "Sean",
+    "last_name": "Ryan",
+    "full_name": "Sean Ryan",
     "email": "RyanS@assembly.state.ny.us ",
     "district": "District 149",
     "site": "http://assembly.state.ny.us/mem/Sean-Ryan",
@@ -1190,7 +1428,9 @@
     "do_office_no": "716-885-9630"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/009.jpg",
-    "name": "Joseph Saladino",
+    "first_name": "Joseph",
+    "last_name": "Saladino",
+    "full_name": "Joseph Saladino",
     "email": "SaladiJ@assembly.state.ny.us",
     "district": "District 9",
     "site": "http://assembly.state.ny.us/mem/Joseph-S-Saladino",
@@ -1200,7 +1440,9 @@
     "do_office_no": "516-541-4598"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/111.jpg",
-    "name": "Angelo Santabarbara",
+    "first_name": "Angelo",
+    "last_name": "Santabarbara",
+    "full_name": "Angelo Santabarbara",
     "email": "SantabarbaraA@assembly.state.ny.us",
     "district": "District 111",
     "site": "http://assembly.state.ny.us/mem/Angelo-Santabarbara",
@@ -1210,7 +1452,9 @@
     "do_office_no": "518-843-0227"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/029.jpg",
-    "name": "William Scarborough",
+    "first_name": "William",
+    "last_name": "Scarborough",
+    "full_name": "William Scarborough",
     "email": "ScarboW@assembly.state.ny.us",
     "district": "District 29",
     "site": "http://assembly.state.ny.us/mem/William-Scarborough",
@@ -1220,7 +1464,9 @@
     "do_office_no": "718-723-5412"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/016.jpg",
-    "name": "Michelle Schimel",
+    "first_name": "Michelle",
+    "last_name": "Schimel",
+    "full_name": "Michelle Schimel",
     "email": "SchimelM@assembly.state.ny.us",
     "district": "District 16",
     "site": "http://assembly.state.ny.us/mem/Michelle-Schimel",
@@ -1230,7 +1476,9 @@
     "do_office_no": "516-482-6966"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/140.jpg",
-    "name": "Robin Schimminger",
+    "first_name": "Robin",
+    "last_name": "Schimminger",
+    "full_name": "Robin Schimminger",
     "email": "SchimmR@assembly.state.ny.us",
     "district": "District 140",
     "site": "http://assembly.state.ny.us/mem/Robin-Schimminger",
@@ -1240,7 +1488,9 @@
     "do_office_no": "716-873-2540"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/076.jpg",
-    "name": "Rebecca  Seawright",
+    "first_name": "Rebecca",
+    "last_name": "Seawright",
+    "full_name": "Rebecca Seawright",
     "email": "SeawrightR@assembly.state.ny.us",
     "district": "District 76",
     "site": "http://assembly.state.ny.us/mem/Rebecca-A-Seawright",
@@ -1250,7 +1500,9 @@
     "do_office_no": "212-288-4607"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/087.jpg",
-    "name": "Luis Sepúlveda",
+    "first_name": "Luis",
+    "last_name": "Sepúlveda",
+    "full_name": "Luis Sepúlveda",
     "email": "SepulvedaL@assembly.state.ny.us",
     "district": "District 87",
     "site": "http://assembly.state.ny.us/mem/Luis-R-Sepulveda",
@@ -1260,7 +1512,9 @@
     "do_office_no": "718-931-2620"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/065.jpg",
-    "name": "Sheldon Silver",
+    "first_name": "Sheldon",
+    "last_name": "Silver",
+    "full_name": "Sheldon Silver",
     "email": "Silver@assembly.state.ny.us",
     "district": "District 65",
     "site": "http://assembly.state.ny.us/mem/Sheldon-Silver",
@@ -1270,7 +1524,9 @@
     "do_office_no": "212-312-1420"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/027.jpg",
-    "name": "Michael  Simanowitz",
+    "first_name": "Michael",
+    "last_name": "Simanowitz",
+    "full_name": "Michael Simanowitz",
     "email": "simanowitzm@assembly.state.ny.us",
     "district": "District 27",
     "site": "http://assembly.state.ny.us/mem/Michael-Simanowitz",
@@ -1280,7 +1536,9 @@
     "do_office_no": "718-969-1508"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/052.jpg",
-    "name": "Jo Anne Simon",
+    "first_name": "Jo",
+    "last_name": "Anne",
+    "full_name": "Jo Anne Simon",
     "email": "simonj@assembly.state.ny.us",
     "district": "District 52",
     "site": "http://assembly.state.ny.us/mem/Jo-Anne-Simon",
@@ -1290,7 +1548,9 @@
     "do_office_no": "718-246-4889"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/036.jpg",
-    "name": "Aravella Simotas",
+    "first_name": "Aravella",
+    "last_name": "Simotas",
+    "full_name": "Aravella Simotas",
     "email": " simotasa@assembly.state.ny.us",
     "district": "District 36",
     "site": "http://assembly.state.ny.us/mem/Aravella-Simotas",
@@ -1300,7 +1560,9 @@
     "do_office_no": "718-545-3889"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/104.jpg",
-    "name": "Frank Skartados",
+    "first_name": "Frank",
+    "last_name": "Skartados",
+    "full_name": "Frank Skartados",
     "email": "SkartadosF@assembly.state.ny.us",
     "district": "District 104",
     "site": "http://assembly.state.ny.us/mem/Frank-Skartados",
@@ -1310,7 +1572,9 @@
     "do_office_no": "845-562-0888"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/099.jpg",
-    "name": "James Skoufis",
+    "first_name": "James",
+    "last_name": "Skoufis",
+    "full_name": "James Skoufis",
     "email": "SkoufisJ@assembly.state.ny.us",
     "district": "District 99",
     "site": "http://assembly.state.ny.us/mem/James-Skoufis",
@@ -1320,7 +1584,9 @@
     "do_office_no": "845-469-6929"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/022.jpg",
-    "name": "Michaelle Solages",
+    "first_name": "Michaelle",
+    "last_name": "Solages",
+    "full_name": "Michaelle Solages",
     "email": "SolagesM@assembly.state.ny.us",
     "district": "District 22",
     "site": "http://assembly.state.ny.us/mem/Michaelle-C-Solages",
@@ -1330,7 +1596,9 @@
     "do_office_no": "516-599-2972"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/114.jpg",
-    "name": "Dan Stec",
+    "first_name": "Dan",
+    "last_name": "Stec",
+    "full_name": "Dan Stec",
     "email": "StecD@assembly.state.ny.us",
     "district": "District 114",
     "site": "http://assembly.state.ny.us/mem/Dan-Stec",
@@ -1340,7 +1608,9 @@
     "do_office_no": "518-792-4546"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/110.jpg",
-    "name": "Phil Steck",
+    "first_name": "Phil",
+    "last_name": "Steck",
+    "full_name": "Phil Steck",
     "email": "SteckP@assembly.state.ny.us",
     "district": "District 110",
     "site": "http://assembly.state.ny.us/mem/Phil-Steck",
@@ -1350,7 +1620,9 @@
     "do_office_no": "518-377-0902"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/127.jpg",
-    "name": "Al Stirpe",
+    "first_name": "Al",
+    "last_name": "Stirpe",
+    "full_name": "Al Stirpe",
     "email": "StirpeA@assembly.state.ny.us",
     "district": "District 127",
     "site": "http://assembly.state.ny.us/mem/Al-Stirpe",
@@ -1360,7 +1632,9 @@
     "do_office_no": "315-452-1115"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/112.jpg",
-    "name": "James Tedisco",
+    "first_name": "James",
+    "last_name": "Tedisco",
+    "full_name": "James Tedisco",
     "email": "TediscJ@assembly.state.ny.us",
     "district": "District 112",
     "site": "http://assembly.state.ny.us/mem/James-Tedisco",
@@ -1370,7 +1644,9 @@
     "do_office_no": "518-370-2812"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/101.jpg",
-    "name": "Claudia Tenney",
+    "first_name": "Claudia",
+    "last_name": "Tenney",
+    "full_name": "Claudia Tenney",
     "email": " tenneyc@assembly.state.ny.us",
     "district": "District 101",
     "site": "http://assembly.state.ny.us/mem/Claudia-Tenney",
@@ -1380,7 +1656,9 @@
     "do_office_no": "315-736-3879"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/001.jpg",
-    "name": "Fred Thiele",
+    "first_name": "Fred",
+    "last_name": "Thiele",
+    "full_name": "Fred Thiele",
     "email": "ThieleF@assembly.state.ny.us",
     "district": "District 1",
     "site": "http://assembly.state.ny.us/mem/Fred-W-Thiele-Jr",
@@ -1390,7 +1668,9 @@
     "do_office_no": "631-537-2583"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/061.jpg",
-    "name": "Matthew Titone",
+    "first_name": "Matthew",
+    "last_name": "Titone",
+    "full_name": "Matthew Titone",
     "email": "TitoneM@assembly.state.ny.us",
     "district": "District 61",
     "site": "http://assembly.state.ny.us/mem/Matthew-Titone",
@@ -1400,7 +1680,9 @@
     "do_office_no": "718-442-9932"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/031.jpg",
-    "name": "Michele Titus",
+    "first_name": "Michele",
+    "last_name": "Titus",
+    "full_name": "Michele Titus",
     "email": "TitusM@assembly.state.ny.us",
     "district": "District 31",
     "site": "http://assembly.state.ny.us/mem/Michele-R-Titus",
@@ -1410,7 +1692,9 @@
     "do_office_no": "718-327-1845"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/055.jpg",
-    "name": "Latrice  Walker",
+    "first_name": "Latrice",
+    "last_name": "Walker",
+    "full_name": "Latrice Walker",
     "email": "WalkerL@assembly.state.ny.us ",
     "district": "District 55",
     "site": "http://assembly.state.ny.us/mem/Latrice-Walker",
@@ -1420,7 +1704,9 @@
     "do_office_no": "212-312-1484"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/146.jpg",
-    "name": "Raymond Walter",
+    "first_name": "Raymond",
+    "last_name": "Walter",
+    "full_name": "Raymond Walter",
     "email": "walterr@assembly.state.ny.us",
     "district": "District 146",
     "site": "http://assembly.state.ny.us/mem/Raymond-Walter",
@@ -1430,7 +1716,9 @@
     "do_office_no": "716-634-1895"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/041.jpg",
-    "name": "Helene Weinstein",
+    "first_name": "Helene",
+    "last_name": "Weinstein",
+    "full_name": "Helene Weinstein",
     "email": "WeinstH@assembly.state.ny.us",
     "district": "District 41",
     "site": "http://assembly.state.ny.us/mem/Helene-E-Weinstein",
@@ -1440,7 +1728,9 @@
     "do_office_no": "718-648-4700"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/024.jpg",
-    "name": "David Weprin",
+    "first_name": "David",
+    "last_name": "Weprin",
+    "full_name": "David Weprin",
     "email": "weprind@assembly.state.ny.us",
     "district": "District 24",
     "site": "http://assembly.state.ny.us/mem/David-I-Weprin",
@@ -1450,7 +1740,9 @@
     "do_office_no": "718-454-3027"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/113.jpg",
-    "name": "Carrie  Woerner",
+    "first_name": "Carrie",
+    "last_name": "Woerner",
+    "full_name": "Carrie Woerner",
     "email": "woernerc@assembly.state.ny.us",
     "district": "District 113",
     "site": "http://assembly.state.ny.us/mem/Carrie-Woerner",
@@ -1460,7 +1752,9 @@
     "do_office_no": "518-584-5493"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/143.jpg",
-    "name": "Angela  Wozniak ",
+    "first_name": "Angela",
+    "last_name": "Wozniak",
+    "full_name": "Angela Wozniak",
     "email": "",
     "district": "District 143",
     "site": "http://assembly.state.ny.us/mem/Angela-M-Wozniak",
@@ -1470,7 +1764,9 @@
     "do_office_no": "716-686-0080"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/070.jpg",
-    "name": "Keith L.T. Wright",
+    "first_name": "Keith",
+    "last_name": "L.T.",
+    "full_name": "Keith L.T. Wright",
     "email": "WrightK@assembly.state.ny.us",
     "district": "District 70",
     "site": "http://assembly.state.ny.us/mem/Keith-L-T-Wright",
@@ -1480,7 +1776,9 @@
     "do_office_no": "212-866-5809"
 }, {
     "photo": "http://assembly.state.ny.us//mem/pic/096.jpg",
-    "name": "Kenneth Zebrowski",
+    "first_name": "Kenneth",
+    "last_name": "Zebrowski",
+    "full_name": "Kenneth Zebrowski",
     "email": "ZebrowskiK@assembly.state.ny.us",
     "district": "District 96",
     "site": "http://assembly.state.ny.us/mem/Kenneth-Zebrowski",

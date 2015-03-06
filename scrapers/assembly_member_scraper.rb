@@ -11,12 +11,14 @@ def scrape_all_information(doc)
 		do_office = member.css('.leader-info > .mem-address > .float-left').children.map(&:text).map(&:strip)
 		title = member.css('.leader-info > strong').text #not exactly what i want
 		district = title.split(" -- ")[1]
-
+		full_name_array = member.css('.leader-info > strong > a').text.split(" ")
 		am_array << {
 			:photo => member.css('.mem-pic img').attr('src').text,
-			:name => member.css('.leader-info > strong > a').text,
+			:first_name => full_name_array[0],
+			:last_name => full_name_array[1],
+			:full_name => full_name_array.join(" "),
 			:email => member.css('.leader-info > .mem-email > a').text,
-			:district => district, #not exactly what i want
+			:district => district,
 			:site => "http://assembly.state.ny.us" + member.css('.leader-info > strong > a').attr('href'),
 			:albany_office_address => "#{albany_office[0]} " + "#{albany_office[2]}",
 			:albany_office_no => albany_office[4],
@@ -30,7 +32,7 @@ end
 am_doc = Nokogiri::HTML(open("http://assembly.state.ny.us/mem/")).css('.memleadfont > li')
 am_json = scrape_all_information(am_doc)
 
-# File.open("../public/nys-assembly-members-2015.json","w") do |f|
-#   f.write(am_json.to_json)
-# end
+File.open("../public/nys-assembly-members-2015.json","w") do |f|
+  f.write(am_json.to_json)
+end
 
