@@ -1,2 +1,7 @@
 # nys-legislators-data
-Scrapers and scraped contact information for NYS legislators
+
+Contact information for NYS legislators
+
+Scraped from--
+[http://assembly.state.ny.us/mem/](http://assembly.state.ny.us/mem/)
+[http://www.nysenate.gov/senators](http://www.nysenate.gov/senators)
